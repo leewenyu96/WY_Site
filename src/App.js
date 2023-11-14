@@ -115,13 +115,11 @@ function App() {
                 <p className='text-light fs-6'> May 2022 - Present</p>
               </h4>
               <p className='mb-5'>
-              <p>• New model development for time-series anomaly detection and Natural Language Processing on 
-              unstructured text data with python. Improving weighted F1 score from 0.1 to 0.66. </p>
-              <p>• Frontend data visualisation development with React and Apache Echarts to achieve OPEX cost savings. </p>
-              <p>• Liaise with the stakeholders for User Requirements and Software Design Specifications.</p>
-              <p>• Carry out User Acceptance Test (UAT) and retraining of data analytic models, ensuring that models 
-              meet performance benchmarks.</p>
-              <p>• Familiar with Jenkins, Gitlab, Jira, and Agile software development environment.</p>
+              <p>• Development of data analytics pipelines for an Asset Management Decision Support System, conduct machine learning model retraining, refactoring, and UAT to account for change in raw data or work processes.  </p>
+              <p>• Optimized the performance of Natural Language Processing classification model used to backfill missing data. </p>
+              <p>• Studied and recommended the implementation of intermittent time series forecasting models to improve existing time-series spare parts forecasting. </p>
+              <p>• Conducted comprehensive reviews of datasets, identifying gaps in work processes and enhancing overall data quality to achieve more accurate model outputs.</p>
+              <p>• Achieved Semi-Finalist status in a highly competitive Whole of Government Data Visualization Tournament with Tableau, showcasing innovative approaches and effective data storytelling.</p>
               </p>
               <h4 className='mb-3 text-warning'>
                 Lam Research:
